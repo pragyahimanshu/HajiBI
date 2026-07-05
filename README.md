@@ -39,7 +39,7 @@ The name **HajiBI** is inspired by **Hajipur, Bihar**, representing the vision o
 ---
 
 ## 📸 Screenshots
-![](./src/images/combined.png)
+![](combined.png)
 ---
 ## 👨‍💻 Developer
 
