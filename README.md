@@ -1,4 +1,4 @@
-# 🎬 HajiBI
+# 🎬 HajiBI Streaming Platform
 
 > A modern movie discovery and entertainment platform built with React.js, TMDB API, and Firebase.
 
